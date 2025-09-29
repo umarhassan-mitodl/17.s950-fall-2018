@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-s950-emotions-and-politics-fall-2018/9643274b45b3e3a424b9f354e6c31cd8_MIT17_S950F18_FinalPaper.pdf
 file_size: 284053
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: A graph illustrating the number of papers on "emotions(s)/affect/mo
 file: /courses/17-s950-emotions-and-politics-fall-2018/fe058c8acefaacf7f7b452fb118919e8_17.S950%20Figure%201.JPG
 file_size: 30372
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "Lerner, Jennifer S., Ye Li, Piercarlo Valdesolo, et al. \"Emotion and\
     \ Decision Making.\" Annual Review of Psychology 66 (2015): 799\u2013823."

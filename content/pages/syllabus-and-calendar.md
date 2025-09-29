@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -97,7 +99,7 @@ Readings
 
 There is one required book which will be read during Week 6:
 
-McClendon, Gwyneth H. _Envy in Politics_. Princeton University Press, 2018. ISBN: 9780691178653. \[Preview with {{% resource_link "16dfffcd-9633-4515-908c-33a3fd3aecaf" "Google Books" %}}\]
+McClendon, Gwyneth H. _Envy in Politics_. Princeton University Press, 2018. ISBN: 9780691178653. \[Preview with [Google Books](https://books.google.com/books?id=zw08DwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 All other readings can be found in the {{% resource_link 0da0f6f5-f22b-abe2-fff4-3d4b37716518 "Readings" %}} section.
 
